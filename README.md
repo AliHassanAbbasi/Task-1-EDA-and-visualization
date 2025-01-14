@@ -27,21 +27,21 @@ Summarize insights to understand the survival patterns of Titanic passengers.
 Features of the Dashboard
 The interactive dashboard provides the following insights:
 
-# Passenger Survival Overview:
+ Passenger Survival Overview:
 
 Total passengers: 418
 Survived passengers: 152 (36.36%)
 Deceased passengers: 266 (63.64%)
 Passenger Demographics:
 
-# Gender distribution:
+ Gender distribution:
 A pie chart shows survival rates by gender.
-# Passenger class:
+ Passenger class:
 A bar chart displays survival by ticket class (1st, 2nd, 3rd).
-# Survival Analysis by Relationships:
+Survival Analysis by Relationships:
 A bar chart presents survival rates based on siblings aboard the Titanic.
 Another chart analyzes survival based on the number of parents/children (Parch) on board.
-# Summary Statistics:
+ Summary Statistics:
 
 A correlation heatmap is used to understand relationships between features.
 
