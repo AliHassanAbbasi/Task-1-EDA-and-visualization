@@ -20,7 +20,7 @@ Data Visualization:
 Visualize categorical and numerical data to uncover trends.
 Create an interactive dashboard to present key findings.
 
-Key Observations:
+# Key Observations:
 
 Summarize insights to understand the survival patterns of Titanic passengers.
 
@@ -44,7 +44,7 @@ Summary Statistics:
 
 A correlation heatmap is used to understand relationships between features.
 
-Key Insights :
+# Key Insights :
 
 Gender Impact on Survival:
 Females had a higher survival rate compared to males.
